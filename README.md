@@ -123,11 +123,6 @@ Catatan: Pastikan koneksi internet stabil untuk mengunduh library ExoPlayer & Co
 Hubungkan perangkat Android atau jalankan Emulator.
 
 Berikan izin (Permission) untuk Microphone dan Camera saat aplikasi pertama kali dijalankan.
-![WhatsApp Image 2025-12-17 at 10 40 31](https://github.com/user-attachments/assets/2b7db642-29b8-4a3f-be29-79a693c8500b)
-![WhatsApp Image 2025-12-17 at 10 40 31](https://github.com/user-attachments/assets/0c8e4f19-6521-47a3-ad0c-448da975088b)
-![WhatsApp Image 2025-12-17 at 10 40 31 (2)](https://github.com/user-attachments/assets/34fc416d-a4f0-4dfe-95e9-a83ed861f9b4)
-![WhatsApp Image 2025-12-17 at 10 40 31](https://github.com/user-attachments/assets/57064428-b222-4e42-a99f-33acd50bece9)
-![WhatsApp Image 2025-12-17 at 10 40 32 (1)](https://github.com/user-attachments/assets/5731fd86-e9e8-470f-b4dd-f252d83483c5)
 
 
 Mata Kuliah Mobile Programming S1 Teknologi Informasi - UIN Antasari Banjarmasin
