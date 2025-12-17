@@ -127,5 +127,6 @@ Berikan izin (Permission) untuk Microphone dan Camera saat aplikasi pertama kali
 
 Mata Kuliah Mobile Programming S1 Teknologi Informasi - UIN Antasari Banjarmasin
 
-
+Nama: Husni Majedi
+NIM: 230104040123
 Dosen Pengampu: Muhayat, M.IT
